@@ -9,4 +9,12 @@ Noah Carter - Research Analyst
 Olivia Rodriguez - Operations Manager
 Adding Self - New Line
 
+New Branch 1
+Landon Cooper - Project Manager
+Grace Turner - Event Planner
+Caleb Bennett - Data Scientist
+Hannah Martinez - Public Relations Specialist
+Logan Nelson - Quality Assurance Analyst
+
+
 
