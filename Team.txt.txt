@@ -1,9 +1,12 @@
-Dipti Dash - Partner Solutions Engineer
-Olivia Rodriguez - Operations Manager
-Ethan Thompson - Technical Support Specialist
-Ava Mitchell - Marketing Coordinator
-Noah Carter - Research Analyst
-Mia Foster - Customer Success Associate
-Liam Garcia - Finance Assistant
-Isabella Hayes - HR Coordinator
 Aiden Ward - Sales Representative
+Ava Mitchell - Marketing Coordinator
+Dipti Dash - Partner Solutions Engineer
+Ethan Thompson - Technical Support Specialist
+Isabella Hayes - HR Coordinator
+Liam Garcia - Finance Assistant
+Mia Foster - Customer Success Associate
+Noah Carter - Research Analyst
+Olivia Rodriguez - Operations Manager
+
+
+
